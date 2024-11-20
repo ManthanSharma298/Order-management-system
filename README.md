@@ -166,6 +166,11 @@ Replace `{order_id}` with the actual ID of the order. For example:
 Replace `{order_id}` with the actual ID of the order. For example:  
 `https://order-management-system-hpfs.onrender.com/order/status/d949a48a-a10b-4323-a758-ae5f26e93791`
 
+**Authentication**: 
+- **Auth Type**: Basic Auth 
+- **Username**: `admin` 
+- **Password**: `password`
+
 **Body**:
 ```json
 {
