@@ -67,7 +67,7 @@ The Flask app is hosted on [Render](https://render.com/)
 ### 3. Create an order
 
 **Method**: `POST`
-**URL**: `https://order-management-system-hpfs.onrender.com/order
+**URL**: `https://order-management-system-hpfs.onrender.com/order`
 
 **Body**:
 Here `id` is the `id` of the item which we have created
